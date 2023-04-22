@@ -1,6 +1,6 @@
-pokusná stránka, no to jsem zvědav.
+Pokusná stránka.
 
-**Tlustý text** normální text, pokusný text, funguje to krásně
+**Tlustý text** normální text, pokusný text, funguje to krásně.
 Malá mezera
 *kurzíva* a zase normální text
 
