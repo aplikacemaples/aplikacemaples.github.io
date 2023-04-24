@@ -7,9 +7,15 @@ Aplikace je vhodná pro majitele, případně lesního hospodáře, administrati
 Aplikace MApLes PRO je vhodná též pro pracovníka v taxaci, je zde možno zakreslovat aktuální stav přímo v aplikaci.
 
 
+
+
 Aplikaci MapLes můžete stáhnout [zde](https://apps.apple.com/cz/app/maples/id584746483).
 
-Aplikaci MapLes PRO můžete stáhnout [zde](https://apps.apple.com/cz/app/maples-pro/id1305006165
+Aplikaci MapLes PRO můžete stáhnout [zde](https://apps.apple.com/cz/app/maples-pro/id1305006165)
+
+
+
+
 
 Kontaktní údaje:
 
@@ -19,6 +25,6 @@ Veverkova 1335
 
 Hradec Králové 500 02
 
-tel: 603 734 026
+**tel: 603 734 026**
 
-e-mail: chobola@lesprojekthk.cz
+**e-mail: chobola@lesprojekthk.cz**
