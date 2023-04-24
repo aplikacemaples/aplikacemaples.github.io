@@ -25,6 +25,6 @@ Veverkova 1335
 
 Hradec Králové 500 02
 
-**tel: 603 734 026
+**tel: 603 734 026**
 
-**e-mail: chobola@lesprojekthk.cz
+**e-mail: chobola@lesprojekthk.cz**
