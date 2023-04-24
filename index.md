@@ -17,7 +17,7 @@ Aplikaci MapLes PRO můžete stáhnout [zde](https://apps.apple.com/cz/app/maple
 
 
 
-Kontaktní údaje:
+**Kontaktní údaje:**
 
 Lesprojekt Hradec Králové, s.r.o.
 
