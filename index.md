@@ -28,7 +28,3 @@ Hradec Králové 500 02
 **tel: 603 734 026**
 
 **e-mail: chobola@lesprojekthk.cz**
-
-**OBRÁZEK**
-
-![2010-06-17 18 48 07](https://user-images.githubusercontent.com/131550886/234050611-427ca804-b3e4-4f8b-baf7-510f6fa853e0.jpg)
