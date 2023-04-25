@@ -4,7 +4,7 @@ Stačí ji jen pustit a prohlížet lesnické mapy s údaji lesní hospodářsk�
 
 Aplikace je vhodná pro majitele, případně lesního hospodáře, administrativního pracovníka v lesním hospodářství. Mapy zpracujeme dle požadavků a doručíme zadavateli.
 
-Aplikace MapLes PRO je vhodná též pro pracovníka v taxaci, je zde možno zakreslovat aktuální stav přímo v aplikaci.
+Aplikace MapLes PRO je vhodná též pro pracovníka v taxaci, je zde možno zakreslit aktuální stav přímo v aplikaci.
 
 
 
