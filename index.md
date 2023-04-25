@@ -2,7 +2,7 @@
 
 Stačí ji jen pustit a prohlížet lesnické mapy s údaji lesní hospodářské knihy. Maples dokáže zobrazit lesnické mapy (porostní, hospodářských opatření, typologické, ...). Umí propojit údaje hospodářské knihy a určí polohu uživatele pomocí GPS. Jednoduchá, logická a přehledná obsluha. Okamžité a komplexní informace o vlastnickém LHC či LHO. Vše v jednom - textová část, hospodářská kniha, lesnické mapy. Dokonalá orientace v každém porostu.
 
-Aplikace je vhodná pro majitele, případně lesního hospodáře, administrativního pracovníka v lesním hospodářství. Mapy zpracujeme dle požadavků a doručíme zadavateli.
+Aplikace je vhodná pro majitele, případně lesního hospodáře, administrativního pracovníka v lesním hospodářství. Mapy vyhotovíme dle požadavků a doručíme zadavateli.
 
 Aplikace MapLes PRO je vhodná též pro pracovníka v taxaci, je zde možno zakreslit aktuální stav přímo v aplikaci.
 
