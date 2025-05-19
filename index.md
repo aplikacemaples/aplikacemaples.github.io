@@ -9,9 +9,8 @@ Aplikace MapLes PRO je vhodná též pro pracovníka v taxaci, je zde možno zak
 
 
 
-Aplikaci MapLes PRO můžete stáhnout [zde](https://apps.apple.com/cz/app/maples-pro/id1305006165).
 
-Aplikaci MapLes PRO 2025 můžete stáhnout [zde](https://apps.apple.com/cz/app/maples-pro-2025/id6739010753?l=cs)
+Aplikaci MapLes PRO 2025 můžete stáhnout [zde](https://apps.apple.com/cz/app/maples-pro-2025/id6739010753?l=cs).
 
 
 
